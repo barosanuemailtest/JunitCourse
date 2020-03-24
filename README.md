@@ -25,32 +25,31 @@
 ## Practice project - basic tests and stubs
 
 * Write 2 classes - User and Project class
-<br>
-![Test](doc/abc/datadaseacc.png)
+
 ![Overview](doc/4Files/ProjectClass.PNG)
-<br>
+
 ![](doc/4Files/WPclass.PNG)
-<br>
+
 ![](doc/4Files/UserClass.PNG)
 
 * Generate constructor and accessors using Eclipse.
 * Test driven development: write test first
 * Advanced assertion: AssertThat
 * Hamcrest matchers
-<br>
+
 ![](doc\4Files\Hamcrest.PNG)
-<br>
+
 
 * Why is this test working?
-<br>
+
 ![](doc\4Files\WorkingTest.PNG)
 
 * correct test setUp:
-<br>
+
 ![](doc\4Files\before.PNG)
 
 * What should be tested?
-<br>
+
 ![](doc\4Files\Useless.PNG)
 
 ## Mocks
@@ -58,7 +57,6 @@
 * Why do we need mocks?
 
 * Project setUp:
-<br>
 
 ![](doc\5Files\DataBaseAcc.PNG)
 
