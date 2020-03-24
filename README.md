@@ -95,3 +95,8 @@ Write unit tests for this class:
 * use when -> thenReturn
 * asserts
 * verify
+
+### Further reading:
+https://www.vogella.com/tutorials/Mockito/article.html
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+https://www.manning.com/books/test-driven
