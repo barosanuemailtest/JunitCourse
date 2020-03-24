@@ -27,9 +27,10 @@
 * Write 2 classes - User and Project class
 <br>
 ![Overview](doc/4Files/ProjectClass.PNG)
-
-![](doc\4Files\WPclass.PNG)
-![](doc\4Files\UserClass.PNG)
+<br>
+![](doc/4Files/WPclass.PNG)
+<br>
+![](doc/4Files/UserClass.PNG)
 
 * Generate constructor and accessors using Eclipse.
 * Test driven development: write test first
