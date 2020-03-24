@@ -37,20 +37,20 @@
 * Advanced assertion: AssertThat
 * Hamcrest matchers
 
-![](doc\4Files\Hamcrest.PNG)
+![](doc/4Files/Hamcrest.PNG)
 
 
 * Why is this test working?
 
-![](doc\4Files\WorkingTest.PNG)
+![](doc/4Files/WorkingTest.PNG)
 
 * correct test setUp:
 
-![](doc\4Files\before.PNG)
+![](doc/4Files/before.PNG)
 
 * What should be tested?
 
-![](doc\4Files\Useless.PNG)
+![](doc/4Files/Useless.PNG)
 
 ## Mocks
 
@@ -58,38 +58,38 @@
 
 * Project setUp:
 
-![](doc\5Files\DataBaseAcc.PNG)
+![](doc/5Files/DataBaseAcc.PNG)
 
 * Now out test has an error
 * We can fix it like this:
 
-![](doc\5Files\UnitTestFix1.PNG)
+![](doc/5Files/UnitTestFix1.PNG)
 
 * But what if we extend the interface?
 
-![](doc\5Files\NoASollution.PNG)
+![](doc/5Files/NoASollution.PNG)
 
 ### Solution: MOCKS
 
-![](doc\5Files\MockInitialSetUp.PNG)
+![](doc/5Files/MockInitialSetUp.PNG)
 
 * Mock testing functionality: Verify
 
-![](doc\5Files\firstVerify.PNG)
+![](doc/5Files/firstVerify.PNG)
 
 * Mock behavior: what is returned by the mock?
 
-![](doc\5Files\WhatIsReturned.PNG)
+![](doc/5Files/WhatIsReturned.PNG)
 
 * Mock behavior: when -> then return
 
-![](doc\5Files\WhenReturn.PNG)
+![](doc/5Files/WhenReturn.PNG)
 
 ## Mocking project: HttpRequestBuilder
 
 Write unit tests for this class:
 
-![](doc\5Files\HttpRequestLoader.PNG)
+![](doc/5Files/HttpRequestLoader.PNG)
 
 * Inject mocks
 * use when -> thenReturn
